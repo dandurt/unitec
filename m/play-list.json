@@ -1,0 +1,32 @@
+{
+    "canciones": [
+        {
+            "id": 0,
+            "titulo": "Elephant",
+            "artista": "Tame Impala",
+            "imagen": "./img/lonerism.png",
+            "cancion": "./musica/TameImpala-Elephant.mp3"
+        },
+        {
+            "id": 1,
+            "titulo": "The Less I Know the Better",
+            "artista": "Tame Impala",
+            "imagen": "./img/currents.jpg",
+            "cancion": "./musica/TameImpala-TheLessIKnowtheBetter.mp3"
+        },
+        {
+            "id": 2,
+            "titulo": "Borderline",
+            "artista": "Tame Impala",
+            "imagen": "./img/slow.jpg",
+            "cancion": "./musica/TameImpala-Borderline.mp3"
+        },
+        {
+            "id": 3,
+            "titulo": "The Moment",
+            "artista": "Tame Impala",
+            "imagen": "./img/slow.jpg",
+            "cancion": "TameImpala-TheMoment.mp3"
+        }
+    ]
+}
