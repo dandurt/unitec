@@ -1,3 +1,0 @@
-exports.fechaActual = () => {
-    return Date();
-}
